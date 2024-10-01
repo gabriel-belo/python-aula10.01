@@ -9,3 +9,4 @@ lista1 = [1, 2]
 lista2 = ['a', 'b']
 combinacoes = [(x, y) for x in lista1 for y in lista2]
 print(combinacoes)
+print('')
